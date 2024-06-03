@@ -1,1 +1,1 @@
-![AutoUnify](../assets/AutoUnify-logo-dark.svg)
+![AutoUnify](https://raw.githubusercontent.com/autounify/.github/main/assets/AutoUnify-logo-dark.svg)
